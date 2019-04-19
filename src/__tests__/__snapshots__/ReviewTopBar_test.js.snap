@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ReviewTopBar /> component renders ReviewTopBar element with AppBar should not return error 1`] = `
+<div>
+  <div
+    className=""
+  >
+    <header
+      className="MuiPaper-root-109 MuiPaper-elevation4-115 MuiAppBar-root-100 MuiAppBar-positionFixed-101 MuiAppBar-colorPrimary-107 mui-fixed"
+    />
+  </div>
+</div>
+`;

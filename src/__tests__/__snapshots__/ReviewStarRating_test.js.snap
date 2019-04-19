@@ -1,0 +1,214 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ReviewStarRating /> component renders ReviewStarRating element should not return error 1`] = `
+<div
+  className="dv-star-rating"
+  style={
+    Object {
+      "display": "inline-block",
+      "position": "relative",
+    }
+  }
+>
+  <input
+    checked={false}
+    className="dv-star-rating-input"
+    id="star-rating_5"
+    name="star-rating"
+    onChange={[Function]}
+    style={
+      Object {
+        "display": "none",
+        "marginLeft": -9999,
+        "position": "absolute",
+      }
+    }
+    type="radio"
+    value={5}
+  />
+  <label
+    className="dv-star-rating-star dv-star-rating-empty-star"
+    htmlFor="star-rating_5"
+    onClick={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "color": "#333",
+        "cursor": "pointer",
+        "float": "right",
+      }
+    }
+  >
+    <i
+      style={
+        Object {
+          "fontStyle": "normal",
+        }
+      }
+    >
+      ★
+    </i>
+  </label>
+  <input
+    checked={false}
+    className="dv-star-rating-input"
+    id="star-rating_4"
+    name="star-rating"
+    onChange={[Function]}
+    style={
+      Object {
+        "display": "none",
+        "marginLeft": -9999,
+        "position": "absolute",
+      }
+    }
+    type="radio"
+    value={4}
+  />
+  <label
+    className="dv-star-rating-star dv-star-rating-empty-star"
+    htmlFor="star-rating_4"
+    onClick={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "color": "#333",
+        "cursor": "pointer",
+        "float": "right",
+      }
+    }
+  >
+    <i
+      style={
+        Object {
+          "fontStyle": "normal",
+        }
+      }
+    >
+      ★
+    </i>
+  </label>
+  <input
+    checked={false}
+    className="dv-star-rating-input"
+    id="star-rating_3"
+    name="star-rating"
+    onChange={[Function]}
+    style={
+      Object {
+        "display": "none",
+        "marginLeft": -9999,
+        "position": "absolute",
+      }
+    }
+    type="radio"
+    value={3}
+  />
+  <label
+    className="dv-star-rating-star dv-star-rating-empty-star"
+    htmlFor="star-rating_3"
+    onClick={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "color": "#333",
+        "cursor": "pointer",
+        "float": "right",
+      }
+    }
+  >
+    <i
+      style={
+        Object {
+          "fontStyle": "normal",
+        }
+      }
+    >
+      ★
+    </i>
+  </label>
+  <input
+    checked={false}
+    className="dv-star-rating-input"
+    id="star-rating_2"
+    name="star-rating"
+    onChange={[Function]}
+    style={
+      Object {
+        "display": "none",
+        "marginLeft": -9999,
+        "position": "absolute",
+      }
+    }
+    type="radio"
+    value={2}
+  />
+  <label
+    className="dv-star-rating-star dv-star-rating-empty-star"
+    htmlFor="star-rating_2"
+    onClick={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "color": "#333",
+        "cursor": "pointer",
+        "float": "right",
+      }
+    }
+  >
+    <i
+      style={
+        Object {
+          "fontStyle": "normal",
+        }
+      }
+    >
+      ★
+    </i>
+  </label>
+  <input
+    checked={false}
+    className="dv-star-rating-input"
+    id="star-rating_1"
+    name="star-rating"
+    onChange={[Function]}
+    style={
+      Object {
+        "display": "none",
+        "marginLeft": -9999,
+        "position": "absolute",
+      }
+    }
+    type="radio"
+    value={1}
+  />
+  <label
+    className="dv-star-rating-star dv-star-rating-empty-star"
+    htmlFor="star-rating_1"
+    onClick={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "color": "#333",
+        "cursor": "pointer",
+        "float": "right",
+      }
+    }
+  >
+    <i
+      style={
+        Object {
+          "fontStyle": "normal",
+        }
+      }
+    >
+      ★
+    </i>
+  </label>
+</div>
+`;
